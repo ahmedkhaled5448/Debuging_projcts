@@ -1,4 +1,4 @@
-# Student Debugging Project
+#  Debugging Project
 
 ## Purpose
 
